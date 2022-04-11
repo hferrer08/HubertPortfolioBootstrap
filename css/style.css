@@ -1,0 +1,28 @@
+*{
+margin:0;
+padding: 0;
+}
+
+.fondoMorado{
+    background-color:#2E294E;
+}
+.sobreMi{
+    border: solid white 1px;
+    border-radius: 30px;
+    padding:20px;
+}
+.posicionRedes{
+    position: fixed;
+    top: 200px;
+    right:20px;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+}
+.seccionSobreMi{
+    margin: 30px;
+}
