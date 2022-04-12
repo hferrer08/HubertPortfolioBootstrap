@@ -26,5 +26,7 @@ padding: 0;
 .seccionSobreMi{
     margin: 30px;
 }
-
+.decoracionLink{
+    text-decoration: none;
+}
 
