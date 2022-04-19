@@ -49,7 +49,7 @@ padding: 0;
     transition: all 4s;
 }
 .transicionSobreMi:hover{
-    background-color:blue;
+    background-color:#2E294E;
 }
 
 /* Duracion de animacion titulo */
